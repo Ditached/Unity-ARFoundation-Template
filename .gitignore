@@ -67,3 +67,5 @@ BuildIOS/
 BuildIOS_BurstDebugInformation_DoNotShip/
 
 .DS_Store
+
+BuildAndroid/
